@@ -1,0 +1,92 @@
+.top
+{
+    background-color:rgb(30,58,138);
+    height: 30px;
+    color: white;
+    
+}
+.search
+{
+    background-color: rgb(239,246,255);
+}
+.logo
+{
+    width: 140px;
+}
+.im
+{
+    width: 40px;
+    padding-top: 10px;
+}
+.aa
+{
+    width: 1290px;
+}
+.bb
+{
+    width: 200px;
+    height: 340px;
+}
+.items
+{
+    width: 150px;
+    height: 150px;
+}
+.wiii{
+    width: 175px;
+}
+.wi{
+    width: 190px;
+}
+.item
+{
+    width: 165px;
+    height: 150px;
+}
+.ho
+{
+    border: 1px solid silver;
+}
+.ho:hover
+{
+    border: 1px solid black;
+}
+.img
+{
+    height: 35px;
+    width: 150px;
+}
+.AA
+{
+    height: 500px;
+    width: 500px;
+}
+.brnd
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: white;
+}
+.brnd img
+{
+    width: 100px;
+    height: 100px;
+ 
+}
+.op 
+{
+    width: 185px;
+    height: 195px;
+}
+.q{
+    width: 210px;
+}
+.sss
+{
+    height: 25px ;
+    width: 25px;
+}
+.imm
+{
+    height: 40px; ;
+}
